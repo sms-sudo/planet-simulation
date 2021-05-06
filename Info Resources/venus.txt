@@ -1,0 +1,30 @@
+Mass (kg)
+4.87 x 1024
+Diameter (km)
+12104
+Mean density (kg/m3)
+5250
+Escape velocity (m/s)
+10400
+Average distance from Sun
+0.723 AU (108,208,930 km)
+Rotation period (length of day in Earth days)
+243.02 (retrograde)
+Revolution period (length of year in Earth days)
+224.7
+Obliquity (tilt of axis degrees)
+178
+Orbit inclination (degrees)
+3.39
+Orbit eccentricity (deviation from circular)
+0.007
+Mean surface temperature (K)
+726
+Visual geometric albedo (reflectivity)
+0.59
+Highest point on surface
+Maxwell Montes (17 km above mean planetary radius)
+Atmospheric components
+96% carbon dioxide, 3% nitrogen, 0.1% water vapor
+Surface materials
+basaltic rock and altered materials 

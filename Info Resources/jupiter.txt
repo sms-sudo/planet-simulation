@@ -1,0 +1,28 @@
+Mass (kg) 
+1.90 x 1027
+Diameter (km) 
+142,800
+Mean density (kg/m3) 
+1314
+Escape velocity (m/s) 
+59500
+Average distance from Sun 
+5.203 AU (778,412,020 km)
+Rotation period (length of day in Earth days) 
+0.41 (9.8 Earth hours)
+Revolution period (length of year in Earth years) 
+11.86
+Obliquity (tilt of axis degrees) 
+3.08
+Orbit inclination (degrees) 
+1.3
+Orbit eccentricity (deviation from circular) 
+0.048
+Mean surface temperature (K) 
+120 (cloud tops)
+Visual geometric albedo (reflectivity) 
+0.44
+Atmospheric components 
+90% hydrogen, 10% helium, .07% methane
+Rings 
+Faint ring. Infrared spectra imply dark rock fragments. 

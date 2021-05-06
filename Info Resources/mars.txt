@@ -1,0 +1,32 @@
+Mass (kg) 
+6.42 x 1023
+Diameter (km) 
+6787
+Mean density (kg/m3) 
+3940
+Escape velocity (m/s) 
+5000
+Average distance from Sun 
+1.524 AU (227,936,640 km)
+Rotation period (length of day in Earth days) 
+1.026
+Revolution period (length of year in Earth days)     
+686.98
+Obliquity (tilt of axis degrees) 
+25
+Orbit inclination (degrees) 
+1.85
+Orbit eccentricity (deviation from circular) 
+0.093
+Maximum surface temperature (K) 
+310
+Minimum surface temperature (K) 
+150
+Visual geometric albedo (reflectivity) 
+0.15
+Highest point on surface 
+Olympus Mons (about 24 km above surrounding lava plains)
+Atmospheric components 
+95% carbon dioxide, 3% nitrogen, 1.6% argon
+Surface materials 
+basaltic rock and altered materials 

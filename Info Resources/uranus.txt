@@ -1,0 +1,28 @@
+Mass (kg) 
+8.68 x 1025
+Diameter (km) 
+51118
+Mean density (kg/m3) 
+1290
+Escape velocity (m/s) 
+21300
+Average distance from Sun 
+19.19 AU (2,870,972,200 km)
+Rotation period (length of day in Earth days) 
+0.72 (17.9 Earth hours)(retrograde)
+Revolution period (length of year in Earth days) 
+30,685 (84 Earth years)
+Obliquity (tilt of axis degrees) 
+97.9
+Orbit inclination (degrees) 
+0.77
+Orbit eccentricity (deviation from circular) 
+0.047
+Mean temperature (K) 
+59
+Visual geometric albedo (reflectivity) 
+0.56
+Atmospheric components 
+83% hydrogen, 15% helium, 2% methane (at depth)
+Rings 
+Uranus has a system of narrow, faint rings. Ring particles are dark, and could consist of rocky or carbonaceous material.

@@ -1,0 +1,28 @@
+Mass (kg) 
+1.29 x 1022
+Diameter (km) 
+2300
+Mean density (kg/m3) 
+2030
+Escape velocity (m/s) 
+1100
+Average distance from Sun 
+39.48 AU (5,906,376,200 km)
+Rotation period (length of day in Earth days) 	
+6.39 (retrograde)
+Revolution period (length of year in Earth years)     
+247.92
+Obliquity (tilt of axis degrees) 
+122.5
+Orbit inclination (degrees) 
+17.15
+Orbit eccentricity (deviation from circular) 
+0.248
+Mean temperature (K) 
+37
+Visual geometric albedo (reflectivity) 
+about 0.5
+Atmospheric components 
+perhaps methane and nitrogen
+Surface materials 
+perhaps methane ice 

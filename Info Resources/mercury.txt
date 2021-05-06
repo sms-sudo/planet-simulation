@@ -1,0 +1,34 @@
+Mass (kg)
+3.3 x 1023
+Diameter (km)
+4879.4
+Mean density (kg/m3)
+5420
+Escape velocity (m/s)
+4300
+Average distance from Sun
+0.387 AU (57,909,175 km)
+Rotation period (length of day in Earth days)
+58.65
+Revolution period (length of year in Earth days)
+87.97
+Obliquity (tilt of axis degrees)
+0
+Orbit inclination (degrees)
+7
+Orbit eccentricity (deviation from circular)
+0.206
+Mean surface temperature (K)
+452
+Maximum surface temperature (K) 
+700
+Minimum surface temperature (K)
+100
+Visual geometric albedo (reflectivity)
+0.12
+Largest known surface feature
+Caloris Basin (1350 km diameter)
+Atmospheric components
+trace amounts of hydrogen and helium
+Surface materials
+basaltic and anorthositic rocks and regolith

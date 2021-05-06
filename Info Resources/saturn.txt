@@ -1,0 +1,28 @@
+Mass (kg) 
+5.69 x 1026
+Diameter (km) 
+120660
+Mean density (kg/m3) 
+690
+Escape velocity (m/s) 
+35600
+Average distance from Sun 
+9.537 AU (1,426,725,400 km)
+Rotation period (length of day in Earth days) 
+0.44 (10.2 Earth hours)
+Revolution period (length of year in Earth years) 
+29.46
+Obliquity (tilt of axis degrees) 
+26.7
+Orbit inclination (degrees) 
+2.49
+Orbit eccentricity (deviation from circular) 
+0.056
+Mean temperature (K) 
+88 K (1 bar level)
+Visual geometric albedo (reflectivity) 
+0.46
+Atmospheric components 
+97% hydrogen, 3% helium, .05% methane
+Rings 
+Rings are 270,000 km in diameter, but only a few hundred meters thick. Particles are  centimeters to decameters in size and are ice (some may be covered with ice); there are traces of silicate and carbon minerals. There are four main ring groups and three more faint, narrowring groups separated by gaps called divisions.

@@ -1,0 +1,51 @@
+ICS Culminating Images
+	- normal
+	- light
+	- bump
+	- black white
+
+1) Sun
+	- sun normal
+	- sun light
+
+2) Mercury
+	- mercury normal
+	- mercury bump
+
+3) Venus
+	- venus normal
+	- venus bump
+	- venus atmosphere
+
+4) Earth
+	- earth normal
+	- earth bump
+	- earth specular
+	- earth lights
+	- earth clouds (coloured)
+	- earth clouds (black/white)
+
+5) Mars
+	- mars normal
+	- mars bump
+
+	- phobos bump
+	- deimos bump
+
+6) Jupiter
+	- jupiter normal
+
+7) Saturn
+	- saturn normal
+	- ring normal
+
+8) Uranus
+	- uranus normal
+	- ring normal
+
+9) Neptune
+	- neptune normal
+
+10) Moon
+	- moon normal
+	- moon bump

@@ -1,0 +1,34 @@
+Mass (kg)
+5.98 x 1024
+Diameter (km)
+12756
+Mean density (kg/m3)
+5520
+Escape velocity (m/s)
+11200
+Average distance from Sun 
+1 AU (149,597,890 km)
+Rotation period (length of day in Earth days) 
+1 (23.93 hours)
+Revolution period (length of year in Earth days) 
+365.26
+Obliquity (tilt of axis degrees) 
+23.4
+Orbit inclination (degrees) 
+0
+Orbit eccentricity (deviation from circular) 
+0.017
+Mean surface temperature (K) 
+281
+Mean maximum surface temperature (K) 
+310
+Mean minimum surface temperature (K) 
+260
+Visual geometric albedo (reflectivity) 
+0.39
+Highest point on surface 
+Mount Everest(over 8 km above sea-level)
+Atmospheric components 
+78% nitrogen, 21% oxygen, 1% argon
+Surface materials 
+basaltic and granitic rock and altered materials
